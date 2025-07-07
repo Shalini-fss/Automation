@@ -1,0 +1,4 @@
+1.ctrl+alt+shift+S   -->project settings
+2.Alt+4 ===>Console in intellej
+3.ctrl+shift+ - ==>only method format
+4.Win+E-Open file manager
